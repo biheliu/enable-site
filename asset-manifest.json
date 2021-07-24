@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/biheliu/enable-site/static/css/main.6e713e17.chunk.css",
-    "main.js": "/biheliu/enable-site/static/js/main.e7e34171.chunk.js",
-    "main.js.map": "/biheliu/enable-site/static/js/main.e7e34171.chunk.js.map",
-    "runtime-main.js": "/biheliu/enable-site/static/js/runtime-main.3b8be1a2.js",
-    "runtime-main.js.map": "/biheliu/enable-site/static/js/runtime-main.3b8be1a2.js.map",
-    "static/js/2.f6217e84.chunk.js": "/biheliu/enable-site/static/js/2.f6217e84.chunk.js",
-    "static/js/2.f6217e84.chunk.js.map": "/biheliu/enable-site/static/js/2.f6217e84.chunk.js.map",
-    "static/js/3.bf962203.chunk.js": "/biheliu/enable-site/static/js/3.bf962203.chunk.js",
-    "static/js/3.bf962203.chunk.js.map": "/biheliu/enable-site/static/js/3.bf962203.chunk.js.map",
-    "index.html": "/biheliu/enable-site/index.html",
-    "static/css/main.6e713e17.chunk.css.map": "/biheliu/enable-site/static/css/main.6e713e17.chunk.css.map",
-    "static/js/2.f6217e84.chunk.js.LICENSE.txt": "/biheliu/enable-site/static/js/2.f6217e84.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/biheliu/enable-site/static/media/NotoSansHans-Bold.fc5fc3f4.otf",
-    "static/media/logo.6ce24c58.svg": "/biheliu/enable-site/static/media/logo.6ce24c58.svg",
-    "static/media/poster.21c5ed55.png": "/biheliu/enable-site/static/media/poster.21c5ed55.png"
+    "main.css": "/enable-site/static/css/main.f533455d.chunk.css",
+    "main.js": "/enable-site/static/js/main.e7e34171.chunk.js",
+    "main.js.map": "/enable-site/static/js/main.e7e34171.chunk.js.map",
+    "runtime-main.js": "/enable-site/static/js/runtime-main.28cc9f5f.js",
+    "runtime-main.js.map": "/enable-site/static/js/runtime-main.28cc9f5f.js.map",
+    "static/js/2.f6217e84.chunk.js": "/enable-site/static/js/2.f6217e84.chunk.js",
+    "static/js/2.f6217e84.chunk.js.map": "/enable-site/static/js/2.f6217e84.chunk.js.map",
+    "static/js/3.bf962203.chunk.js": "/enable-site/static/js/3.bf962203.chunk.js",
+    "static/js/3.bf962203.chunk.js.map": "/enable-site/static/js/3.bf962203.chunk.js.map",
+    "index.html": "/enable-site/index.html",
+    "static/css/main.f533455d.chunk.css.map": "/enable-site/static/css/main.f533455d.chunk.css.map",
+    "static/js/2.f6217e84.chunk.js.LICENSE.txt": "/enable-site/static/js/2.f6217e84.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/enable-site/static/media/NotoSansHans-Bold.fc5fc3f4.otf",
+    "static/media/logo.6ce24c58.svg": "/enable-site/static/media/logo.6ce24c58.svg",
+    "static/media/poster.21c5ed55.png": "/enable-site/static/media/poster.21c5ed55.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b8be1a2.js",
+    "static/js/runtime-main.28cc9f5f.js",
     "static/js/2.f6217e84.chunk.js",
-    "static/css/main.6e713e17.chunk.css",
+    "static/css/main.f533455d.chunk.css",
     "static/js/main.e7e34171.chunk.js"
   ]
 }
