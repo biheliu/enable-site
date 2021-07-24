@@ -10,10 +10,10 @@
     url("./fonts/NotoSansHans-Bold.otf") format("truetype");
 }
 
-.App {
+/* .App {
   height: 100%;
   background-color: black;
-}
+} */
 
 .App-body {
   max-height: max-content;
@@ -44,24 +44,31 @@
   font-size: 16px;
   line-height: 20px;
   font-family: "Averia Serif Libre";
+  text-align: justify;
 }
 
 .cn_desc_text {
   font-size: 16px;
   line-height: 20px;
   font-family: "Noto Sans Hans";
+  text-align: justify;
 }
 
 div[en] {
-  font-size: 16px;
-  line-height: 20px;
   font-family: "Averia Serif Libre";
 }
 
 div[ch] {
-  font-size: 16px;
-  line-height: 20px;
   font-family: "Noto Sans Hans";
+}
+
+.desc_footer {
+  font-size: 13px;
+  line-height: 13px;
+}
+
+a[linkid] {
+  padding: 0.5px;
 }
 
 .left-half-content {
@@ -80,15 +87,6 @@ div[ch] {
   align-items: baseline;
 }
 
-/* .footer-left {
-  float: left;
-  flex: 1;
-}
-.footer-right {
-  float: right;
-  flex: 1;
-} */
-
 #search-in-taobao {
   width: 250px;
 }
@@ -102,6 +100,6 @@ p {
 }
 
 a {
-  color:beige;
-  text-decoration: none;
+  color: white;
+  text-decoration: underline;
 }
