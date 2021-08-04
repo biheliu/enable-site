@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.305cfe3b.chunk.css",
-    "main.js": "/static/js/main.a5c3327d.chunk.js",
-    "main.js.map": "/static/js/main.a5c3327d.chunk.js.map",
+    "main.css": "/static/css/main.491cb080.chunk.css",
+    "main.js": "/static/js/main.3aa29ba1.chunk.js",
+    "main.js.map": "/static/js/main.3aa29ba1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7e19c47d.js",
     "runtime-main.js.map": "/static/js/runtime-main.7e19c47d.js.map",
     "static/js/2.f6217e84.chunk.js": "/static/js/2.f6217e84.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.bf962203.chunk.js": "/static/js/3.bf962203.chunk.js",
     "static/js/3.bf962203.chunk.js.map": "/static/js/3.bf962203.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.305cfe3b.chunk.css.map": "/static/css/main.305cfe3b.chunk.css.map",
+    "static/css/main.491cb080.chunk.css.map": "/static/css/main.491cb080.chunk.css.map",
     "static/js/2.f6217e84.chunk.js.LICENSE.txt": "/static/js/2.f6217e84.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/NotoSansHans-Bold.fc5fc3f4.otf",
     "static/media/poster.21c5ed55.png": "/static/media/poster.21c5ed55.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.7e19c47d.js",
     "static/js/2.f6217e84.chunk.js",
-    "static/css/main.305cfe3b.chunk.css",
-    "static/js/main.a5c3327d.chunk.js"
+    "static/css/main.491cb080.chunk.css",
+    "static/js/main.3aa29ba1.chunk.js"
   ]
 }
