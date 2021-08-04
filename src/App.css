@@ -16,20 +16,43 @@
 } */
 
 .App-body {
-  max-height: max-content;
+  /* max-height: max-content; */
   background-color: black;
+  color: white;
   display: flex;
-  flex-direction: row;
+  justify-content: flex-end;
   flex-wrap: wrap;
+  flex-direction: row;
+  align-items: stretch;
 }
 
 .left-half {
-  color: white;
-  flex: 0.55;
+  /*左边固定宽度，必须设置其最小宽度和最大宽度*/
+  width: 900px;
+  min-width: 200px;
+  max-width: 1600px;
+
+  /*高度自由分配*/
+  height: auto;
+
+  /*空白区域分配比例为0（作用于项目）*/
+  flex-grow: 0;
 }
 .right-half {
-  flex: 0.45;
+  /* margin-left: 10px; */
+  width: 400px;
+  height: auto;
+
+  /*空白区域分配比例为1（作用于项目）
+	左右得到的空白比例为0:1，所以右边会分配到剩余的所有空白区域，
+	左边成固定的宽度，右边为自适应宽度*/
+  flex-grow: 1;
 }
+
+/* .break {
+  flex-basis: 100%;
+  width: 0;
+} */
 
 .desc_title {
   font-size: 24px;
@@ -68,7 +91,7 @@ a[linkid] {
 }
 
 .left-half-content {
-  padding: 70px 90px;
+  padding: 10% 10%;
 }
 
 .poster {
@@ -84,11 +107,15 @@ a[linkid] {
 }
 
 #search-in-taobao {
-  width: 250px;
+  /* width: 250px; */
+  width: 50%;
+  min-width: 150px;
 }
 
 #qrcode-taobao {
-  width: 100px;
+  /* width: 100px; */
+  width: 40%;
+  min-width: 100px;
 }
 
 p {

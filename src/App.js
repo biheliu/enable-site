@@ -100,12 +100,15 @@ function App() {
 
                 {spaces(4)}
                 <div className="footer-images">
-                  <a href="https://shop484135250.taobao.com/">
+                  <a
+                    id="search-container"
+                    href="https://shop484135250.taobao.com/"
+                  >
                     {/* <div className="footer-left"> */}
                     <img id="search-in-taobao" src={search} alt="search" />
                     {/* </div>*/}
                   </a>
-                  <a>
+                  <a id="qrcode-container">
                     {/*<div className="footer-right"> */}
                     <img id="qrcode-taobao" src={qrcode} alt="qrcode" />
                     {/* </div> */}

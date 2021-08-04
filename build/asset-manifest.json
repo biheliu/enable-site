@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/enable-site/static/css/main.93517020.chunk.css",
-    "main.js": "/enable-site/static/js/main.a5c3327d.chunk.js",
-    "main.js.map": "/enable-site/static/js/main.a5c3327d.chunk.js.map",
-    "runtime-main.js": "/enable-site/static/js/runtime-main.28cc9f5f.js",
-    "runtime-main.js.map": "/enable-site/static/js/runtime-main.28cc9f5f.js.map",
-    "static/js/2.f6217e84.chunk.js": "/enable-site/static/js/2.f6217e84.chunk.js",
-    "static/js/2.f6217e84.chunk.js.map": "/enable-site/static/js/2.f6217e84.chunk.js.map",
-    "static/js/3.bf962203.chunk.js": "/enable-site/static/js/3.bf962203.chunk.js",
-    "static/js/3.bf962203.chunk.js.map": "/enable-site/static/js/3.bf962203.chunk.js.map",
-    "index.html": "/enable-site/index.html",
-    "static/css/main.93517020.chunk.css.map": "/enable-site/static/css/main.93517020.chunk.css.map",
-    "static/js/2.f6217e84.chunk.js.LICENSE.txt": "/enable-site/static/js/2.f6217e84.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/enable-site/static/media/NotoSansHans-Bold.fc5fc3f4.otf",
-    "static/media/poster.21c5ed55.png": "/enable-site/static/media/poster.21c5ed55.png"
+    "main.css": "/static/css/main.305cfe3b.chunk.css",
+    "main.js": "/static/js/main.a5c3327d.chunk.js",
+    "main.js.map": "/static/js/main.a5c3327d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7e19c47d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7e19c47d.js.map",
+    "static/js/2.f6217e84.chunk.js": "/static/js/2.f6217e84.chunk.js",
+    "static/js/2.f6217e84.chunk.js.map": "/static/js/2.f6217e84.chunk.js.map",
+    "static/js/3.bf962203.chunk.js": "/static/js/3.bf962203.chunk.js",
+    "static/js/3.bf962203.chunk.js.map": "/static/js/3.bf962203.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.305cfe3b.chunk.css.map": "/static/css/main.305cfe3b.chunk.css.map",
+    "static/js/2.f6217e84.chunk.js.LICENSE.txt": "/static/js/2.f6217e84.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/NotoSansHans-Bold.fc5fc3f4.otf",
+    "static/media/poster.21c5ed55.png": "/static/media/poster.21c5ed55.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.28cc9f5f.js",
+    "static/js/runtime-main.7e19c47d.js",
     "static/js/2.f6217e84.chunk.js",
-    "static/css/main.93517020.chunk.css",
+    "static/css/main.305cfe3b.chunk.css",
     "static/js/main.a5c3327d.chunk.js"
   ]
 }
